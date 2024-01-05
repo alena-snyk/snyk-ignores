@@ -4,7 +4,7 @@
   "description": "Queries snyk API for issue ignores and creates the .snyk policy file",
   "main": "snyk-ignores.mjs",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "minimist": "^1.2.5"
   },
   "devDependencies": {},
